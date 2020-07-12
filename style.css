@@ -1,3 +1,10 @@
 div {
     background: yellowgreen;
+    text-align: center;
+    padding: 2rem;
+    color: white;
+}
+
+h1 {
+    font-size: 5rem;
 }
